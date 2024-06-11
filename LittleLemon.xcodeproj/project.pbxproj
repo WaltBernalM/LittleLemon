@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DAE2ADD02C1849C400AD19DC /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE2ADCF2C1849C400AD19DC /* Onboarding.swift */; };
 		DAF0C1882C184487003CFFFC /* LittleLemonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF0C1872C184487003CFFFC /* LittleLemonApp.swift */; };
 		DAF0C18A2C184487003CFFFC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF0C1892C184487003CFFFC /* ContentView.swift */; };
 		DAF0C18C2C184488003CFFFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAF0C18B2C184488003CFFFC /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DAE2ADCF2C1849C400AD19DC /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
 		DAF0C1842C184487003CFFFC /* LittleLemon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LittleLemon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAF0C1872C184487003CFFFC /* LittleLemonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleLemonApp.swift; sourceTree = "<group>"; };
 		DAF0C1892C184487003CFFFC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				DAF0C1872C184487003CFFFC /* LittleLemonApp.swift */,
 				DAF0C1892C184487003CFFFC /* ContentView.swift */,
+				DAE2ADCF2C1849C400AD19DC /* Onboarding.swift */,
 				DAF0C18B2C184488003CFFFC /* Assets.xcassets */,
 				DAF0C1902C184488003CFFFC /* Persistence.swift */,
 				DAF0C1922C184488003CFFFC /* LittleLemon.xcdatamodeld */,
@@ -145,6 +148,7 @@
 			files = (
 				DAF0C1912C184488003CFFFC /* Persistence.swift in Sources */,
 				DAF0C1942C184488003CFFFC /* LittleLemon.xcdatamodeld in Sources */,
+				DAE2ADD02C1849C400AD19DC /* Onboarding.swift in Sources */,
 				DAF0C18A2C184487003CFFFC /* ContentView.swift in Sources */,
 				DAF0C1882C184487003CFFFC /* LittleLemonApp.swift in Sources */,
 			);
