@@ -22,6 +22,9 @@ struct Onboarding: View {
     var body: some View {
         VStack {
             Form {
+                Text("Onboarding")
+                    .font(.title)
+                    .padding(.vertical, 10)
                 HStack {
                     Text("First name: ")
                     TextField("John", text: $firstName)
